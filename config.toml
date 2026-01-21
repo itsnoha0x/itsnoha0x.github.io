@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Noha Writes'
 theme = 'PaperMod'
 
+canonifyURLs = false
+relativeURLs = true
+
 [pagination]
   pagerSize = 5
 
@@ -21,7 +24,7 @@ theme = 'PaperMod'
   enabled = true
   title = "Noha Writes"
   subtitle = "Cybersecurity Enthusiast and Freelance Writer"
-  imageUrl = "images/profile.jpg"
+  imageUrl = "/images/profile.jpg"
   imageTitle = "Noha"
   imageWidth = 150
   imageHeight = 150
