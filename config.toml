@@ -19,6 +19,8 @@ relativeURLs = true
   defaultTheme = "auto"
   mainSections = ["blog"]
   showRecentPosts = true
+  hideMeta = true
+  customCSS = ["css/custom.css"]
 
 [params.profileMode]
   enabled = true
@@ -31,7 +33,7 @@ relativeURLs = true
 
 
 [[params.profileMode.buttons]]
-name = "Blog"
+name = "Read My Blog"
 url = "/blog/"
 
 [[params.profileMode.buttons]]

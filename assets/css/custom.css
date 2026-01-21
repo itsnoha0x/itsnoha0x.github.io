@@ -1,0 +1,30 @@
+.home-banner {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+}
+
+.home-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px; /* optional, PaperMod-style */
+}
+
+.main-content {
+  margin-top: 3rem;
+}
+
+.main-content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.main-content p {
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+}
+
+.main-content ul {
+  margin-top: 1.5rem;
+  line-height: 1.8;
+}
