@@ -1,7 +1,10 @@
-baseURL = '/'
+baseURL = 'https://nohawrites.com/'
 languageCode = 'en-us'
 title = 'Noha Writes'
 theme = 'PaperMod'
+
+relativeURLs = true
+canonifyURLs = false
 
 [pagination]
   pagerSize = 5
@@ -22,9 +25,6 @@ theme = 'PaperMod'
   title = "Noha Writes"
   subtitle = "Cybersecurity Enthusiast and Freelance Writer"
   imageUrl = "images/profile.jpg"
-  imageTitle = "Noha"
-  imageWidth = 150
-  imageHeight = 150
 
 
 [[params.profileMode.buttons]]
