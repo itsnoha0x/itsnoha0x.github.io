@@ -21,10 +21,11 @@ theme = 'PaperMod'
   enabled = true
   title = "Noha Writes"
   subtitle = "Cybersecurity Enthusiast and Freelance Writer"
-  imageUrl = "/images/profile.jpg"
+  imageUrl = "images/profile.jpg"
   imageTitle = "Noha"
-  imageWidth = 140
-  imageHeight = 140
+  imageWidth = 150
+  imageHeight = 150
+
 
 [[params.profileMode.buttons]]
 name = "Blog"
