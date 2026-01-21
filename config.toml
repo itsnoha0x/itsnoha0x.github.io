@@ -1,4 +1,4 @@
-baseURL = 'https://nohawrites.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Noha Writes'
 theme = 'PaperMod'
@@ -14,3 +14,22 @@ theme = 'PaperMod'
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  mainSections = ["blog"]
+  showRecentPosts = true
+
+[params.profileMode]
+  enabled = true
+  title = "Noha Writes"
+  subtitle = "Cybersecurity Enthusiast and Freelance Writer"
+  imageUrl = "/images/profile.jpg"
+  imageTitle = "Noha"
+  imageWidth = 140
+  imageHeight = 140
+
+[[params.profileMode.buttons]]
+name = "Blog"
+url = "/blog/"
+
+[[params.profileMode.buttons]]
+name = "Work With Me"
+url = "/work-with-me/"
