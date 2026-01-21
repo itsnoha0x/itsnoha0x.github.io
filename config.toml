@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://nohawrites.com/'
 languageCode = 'en-us'
 title = 'Noha Writes'
 theme = 'PaperMod'
