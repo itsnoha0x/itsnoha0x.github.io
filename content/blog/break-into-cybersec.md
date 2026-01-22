@@ -6,7 +6,6 @@ draft: false
 summary: "Cybersecurity is now essential across all fields. If you're new and unsure where to start, this piece shares a learner’s journey and advice to guide you fast."
 ---
 
-# How To break into Cybersecurity: Advice From A Learner
 
 Cybersecurity has evolved from a mystery we hear about in the news to almost a necessity and a trend, affecting all fields and garnering global attention. 
 
@@ -45,6 +44,8 @@ Since they are the foundation for all software, you should get comfortable with 
 Scripting and understanding code are valuable skills in the field! Maybe not to a high level of a developer, but moderate to use it comfortably. 
 
 Python for scripting and automation, Bash for tasks in Linux, and C for those interested in low-level security and reverse engineering. Remember to start small with the basics and practice regularly with projects.
+
+![Learning illustration](/images/illustrations/undraw_learning.svg) 
 
 ### Web
 
