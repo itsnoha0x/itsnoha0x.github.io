@@ -55,3 +55,8 @@ url = "/work-with-me/"
     name = "Work With Me"
     url = "/work-with-me/"
     weight = 2
+
+
+
+[markup.goldmark.renderer]
+unsafe = true

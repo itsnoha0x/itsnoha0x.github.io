@@ -1,10 +1,9 @@
 ---
 title: "Work With Me"
-ShowShareButtons: false
+showShareButtons: false
 ---
-<div style="text-align: center;">
-## ✨Make Your Cybersecurity Content Clear and Special✨
-</div>
+
+## ✨Make Your Cybersecurity Content Special✨
 
 I’m a cybersecurity enthusiast and writer who understands exactly what confuses beginners, because I’m actively living in the field.
 
