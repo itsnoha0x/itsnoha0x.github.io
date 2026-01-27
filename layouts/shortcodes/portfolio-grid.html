@@ -1,0 +1,21 @@
+{{ $cat := .Get "category" }}
+
+<div class="portfolio-grid">
+  {{ range where site.RegularPages "Section" "portfolio" }}
+    {{ if eq .Params.category $cat }}
+      <div class="portfolio-card">
+        <h3>{{ .Title }}</h3>
+
+        <p class="portfolio-meta">
+          <strong>Client:</strong> {{ .Params.client }}<br>
+        </p>
+
+        <p>{{ .Params.summary }}</p>
+
+        <a href="{{ .Params.link }}" target="_blank" class="portfolio-btn">
+          Read Article →
+        </a>
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
