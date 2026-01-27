@@ -24,9 +24,9 @@ Whether you’re building a tech blog, a personal brand, or a cybersecurity serv
 
 ## Why Work With Me?
 
-- I live what I write, a **real hands-on learning experience**
-- I **simplify complex ideas** and translate expert insights into engaging content
-- I bring a **creative, human tone** to tech writing
-- I value **clear communication, deadlines, and structured workflows**
-- I focus on **accuracy, clarity, and reader trust**
+- I live what I write, a real hands-on learning experience
+- I simplify complex ideas and translate expert insights into engaging content
+- I bring a creative, human tone to tech writing
+- I value clear communication, deadlines, and structured workflows
+- I focus on accuracy, clarity, and reader trust
 

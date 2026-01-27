@@ -6,7 +6,7 @@
 }
 
 .portfolio-card {
-  background: var(--entry);
+  background: red;
   border-radius: 14px;
   padding: 1.2rem;
   box-shadow: 0 6px 18px rgba(0,0,0,0.05);
