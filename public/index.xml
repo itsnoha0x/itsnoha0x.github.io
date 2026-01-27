@@ -2,32 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Noha Writes</title>
-    <link>http://localhost:1313/</link>
+    <link>https://nohawrites.com/</link>
     <description>Recent content in Home on Noha Writes</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nohawrites.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Learn Programming Faster: A DevOps Engineer’s Approach</title>
-      <link>http://localhost:1313/blog/how-to-learn-programming-faster/</link>
+      <link>https://nohawrites.com/blog/how-to-learn-programming-faster/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/how-to-learn-programming-faster/</guid>
+      <guid>https://nohawrites.com/blog/how-to-learn-programming-faster/</guid>
       <description>Most programming learners struggle to make real progress. Let&amp;rsquo;s see how to master programming faster with practical advice from an experienced DevOps engineer.</description>
     </item>
     <item>
       <title>How To break into Cybersecurity: Advice From A Learner</title>
-      <link>http://localhost:1313/blog/how-to-break-into-cybersecurity/</link>
+      <link>https://nohawrites.com/blog/how-to-break-into-cybersecurity/</link>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/how-to-break-into-cybersecurity/</guid>
+      <guid>https://nohawrites.com/blog/how-to-break-into-cybersecurity/</guid>
       <description>Cybersecurity is now essential across all fields. If you&amp;rsquo;re new and unsure where to start, this piece shares a learner’s journey and advice to guide you fast.</description>
     </item>
     <item>
-      <title>Work With Me</title>
-      <link>http://localhost:1313/work-with-me/</link>
+      <title>The Human Factor: From Security Risk to Security Power</title>
+      <link>https://nohawrites.com/portfolio/human-factor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/work-with-me/</guid>
-      <description>&lt;p&gt;Here will be my portfolio&lt;/p&gt;</description>
+      <guid>https://nohawrites.com/portfolio/human-factor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Most Common Security Mistakes Putting Banks at Risk</title>
+      <link>https://nohawrites.com/portfolio/bank-mistakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/bank-mistakes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Insider Threats: Why Internal Access Is Your Biggest Security Risk</title>
+      <link>https://nohawrites.com/portfolio/insider-threats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/insider-threats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work With Me</title>
+      <link>https://nohawrites.com/work-with-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/work-with-me/</guid>
+      <description>&lt;h2 id=&#34;make-your-cybersecurity-content-clear-and-special&#34;&gt;✨Make Your Cybersecurity Content Clear and Special✨&lt;/h2&gt;
+&lt;p&gt;I’m a cybersecurity enthusiast and writer who understands exactly what confuses beginners, because I’m actively living in the field.&lt;/p&gt;
+&lt;p&gt;After two years of blogging, I transitioned into cybersecurity and tech freelance writing, bringing clarity, structure, and strong storytelling into technical content.&lt;/p&gt;
+&lt;p&gt;Whether you’re building a tech blog, a personal brand, or a cybersecurity service, I help you connect with your audience and turn complex ideas into clear, engaging, and beginner-friendly content.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

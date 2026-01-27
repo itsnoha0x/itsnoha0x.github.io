@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolios on Noha Writes</title>
+    <link>https://nohawrites.com/portfolio/</link>
+    <description>Recent content in Portfolios on Noha Writes</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://nohawrites.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Human Factor: From Security Risk to Security Power</title>
+      <link>https://nohawrites.com/portfolio/human-factor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/human-factor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Most Common Security Mistakes Putting Banks at Risk</title>
+      <link>https://nohawrites.com/portfolio/bank-mistakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/bank-mistakes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Insider Threats: Why Internal Access Is Your Biggest Security Risk</title>
+      <link>https://nohawrites.com/portfolio/insider-threats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/insider-threats/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
