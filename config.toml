@@ -43,7 +43,8 @@ url = "/work-with-me/"
 
 [params.assets]
   disableFingerprinting = true
-  favicon = "/icon.png"
+  favicon = "/images/icon.png"
+  
 
 [menu]
 

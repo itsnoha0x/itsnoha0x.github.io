@@ -41,7 +41,9 @@ Like any other technical skill, programming heavily requires continuous practice
 
 Both theory and practice are crucial in learning. The most effective way to bridge the two is through debugging. Start by learning the theory, put it into action, then troubleshoot those errors. Real debugging involves diving into documentation, understanding the error, and using breakpoints to evolve, rather than copying and pasting solutions found online.
 
-<img src="/images/illustrations/undraw_programming.svg" width="320" />
+<div style="text-align: center; margin: 40px 0;">
+  <img src="/images/illustrations/undraw_programming.svg" width="320" />
+</div>
 
 ## Common Mistakes of Beginners
 
