@@ -1,6 +1,6 @@
 ---
 title: "Work With Me"
-showShareButtons: false
+ShowShareButtons: false
 ---
 
 ## ✨Make Your Cybersecurity Content Special✨
@@ -31,3 +31,8 @@ Whether you’re building a tech blog, a personal brand, or a cybersecurity serv
 - I value clear communication, deadlines, and structured workflows
 - I focus on accuracy, clarity, and reader trust
 
+## Bonus: My Writing Beyond Cybersecurity
+
+My love for writing isn’t limited to tech, but expands and overlaps with creativity. Here are some of my guest posts on creative topics:
+
+{{< portfolio-grid category="guest" >}}
