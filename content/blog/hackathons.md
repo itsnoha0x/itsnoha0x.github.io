@@ -46,6 +46,8 @@ While hackathon formats differ from one place to another, the process is usually
 
 ## Hackathons and what they offer for developers:
 
+![HACKCC hackathon](/images/photos/HACKCC.jpg) 
+
 It’s indeed a competition, time-based and prize-related, but even if you don’t make it to the top, the experience itself offers huge benefits:
 
 - **Networking Opportunities**
@@ -63,8 +65,6 @@ It’s indeed a competition, time-based and prize-related, but even if you don�
 - **Mastering Communication & Presentation**
     
     Beyond the code, you’ll need to pitch your project clearly to judges. That means structuring your ideas, confidently speaking in front of an audience, and answering tough questions—skills you’ll use for the rest of your career.
-
-![HACKCC hackathon](/static/images/photos/HACKCC.JPG) 
     
 
 ## Advice for first-timers:
