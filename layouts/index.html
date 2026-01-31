@@ -8,13 +8,25 @@
   </div>
 
   {{/* RECENT POSTS GRID */}}
-{{ $pages := where site.RegularPages "Section" "in" site.MainSections }}
-{{ if gt (len $pages) 0 }}
+  {{ $pages := where site.RegularPages "Section" "blog" }}
+  {{ if gt (len $pages) 0 }}
   <section class="recent-posts">
-    <h2>Recent Blog Posts</h2>
-    {{ partial "posts.html" (dict "context" . "pages" ($pages | first 6)) }}
+    <h2>Recent posts</h2>
+
+    <div class="posts-list">
+      {{ range first 5 $pages }}
+        <article class="post-row">
+          <a href="{{ .RelPermalink }}">
+            <h3>{{ .Title }}</h3>
+          </a>
+
+          <p>{{ .Summary | plainify }}</p>
+        </article>
+      {{ end }}
+    </div>
   </section>
-{{ end }}
+  {{ end }}
+
 
   {{ if not site.Params.profileMode.enabled }}
     {{ partial "home_info.html" . }}
