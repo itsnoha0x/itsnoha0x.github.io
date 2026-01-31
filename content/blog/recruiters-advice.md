@@ -3,7 +3,7 @@ title: "A recruiter’s advice to get you hired in cybersecurity"
 slug: "recruiters-advice-to-get-you-hired-in-cybersecurity"
 date: 2026-01-31
 draft: false
-summary: "Cybersecurity is now essential across all fields. If you're new and unsure where to start, this piece shares a learner’s journey and advice to guide you fast."
+summary: "When you start in cybersecurity, everyone talks about skills, certificates, and ticking the boxes to get hired... This conversation with an expert recruiter gives you all the answers"
 ---
 
 I’ve been a cybersecurity student for a while now, and one question never leaves my mind: *How do we get hired?*
