@@ -1,7 +1,7 @@
 ---
 title: "Harvard CS50’s Introduction to Cybersecurity Made My Classes Easy"
 slug: "harvard-cs50-cybersecurity-course-review"
-date: 2026-01-31
+date: 2026-01-30
 draft: false
 summary: "Sometimes, one online course can be all it takes to break into a field. And in my story, it was the Harvard CS50’s introduction to cybersecurity! Here is a detailed course review"
 ---
