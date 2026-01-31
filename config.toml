@@ -23,6 +23,14 @@ relativeURLs = true
   customCSS = ["css/custom.css"]
   env = "production"
 
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/itsnoha0x"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/noha-moussaddak/"
+
 [params.profileMode]
   enabled = true
   title = "Noha Writes"

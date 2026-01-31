@@ -36,3 +36,11 @@ Whether you’re building a tech blog, a personal brand, or a cybersecurity serv
 My love for writing isn’t limited to tech, but expands and overlaps with creativity. Here are some of my guest posts on creative topics:
 
 {{< portfolio-grid category="guest" >}}
+
+---
+
+## Contact me
+
+> If you’d like to work together or discuss a project, feel free to reach out.
+>  
+> 📧 **hello@nohawrites.com**

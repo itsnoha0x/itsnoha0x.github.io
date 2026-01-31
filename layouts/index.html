@@ -7,7 +7,17 @@
     {{ .Content }}
   </div>
 
+  {{/* RECENT POSTS GRID */}}
+  {{ $pages := where site.RegularPages "Section" "in" site.MainSections }}
+  {{ if gt (len $pages) 0 }}
+    <section class="recent-posts">
+      <h2>Recent posts</h2>
+      {{ partial "post_list.html" (dict "context" . "pages" ($pages | first 6)) }}
+    </section>
+  {{ end }}
+
   {{ if not site.Params.profileMode.enabled }}
     {{ partial "home_info.html" . }}
   {{ end }}
 {{ end }}
+
