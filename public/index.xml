@@ -6,8 +6,29 @@
     <description>Recent content in Home on Noha Writes</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nohawrites.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harvard CS50’s Introduction to Cybersecurity Made My Classes Easy</title>
+      <link>https://nohawrites.com/blog/harvard-cs50-cybersecurity-course-review/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/blog/harvard-cs50-cybersecurity-course-review/</guid>
+      <description>Sometimes, one online course can be all it takes to break into a field. And in my story, it was the Harvard CS50’s introduction to cybersecurity! Here is a detailed course review</description>
+    </item>
+    <item>
+      <title>Windows vs. Linux, A Simple Guide That Finally Makes Sense</title>
+      <link>https://nohawrites.com/blog/simple-guide-to-windows-vs-linux/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/blog/simple-guide-to-windows-vs-linux/</guid>
+      <description>Confused about Windows vs Linux? This beginner-friendly guide explains key differences, use cases, and insights from a systems and network administrator.</description>
+    </item>
+    <item>
+      <title>Want to Break Into Tech? Start With a Hackathon</title>
+      <link>https://nohawrites.com/blog/how-to-break-into-tech-with-a-hackathon/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/blog/how-to-break-into-tech-with-a-hackathon/</guid>
+      <description>Ever heard of hackathons but never dared to try? Same, until I wrote this. Discover how hackathons go beyond coding, helping you build skills, confidence, and a stronger tech presence.</description>
+    </item>
     <item>
       <title>How to Learn Programming Faster: A DevOps Engineer’s Approach</title>
       <link>https://nohawrites.com/blog/how-to-learn-programming-faster/</link>
@@ -21,6 +42,27 @@
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://nohawrites.com/blog/how-to-break-into-cybersecurity/</guid>
       <description>Cybersecurity is now essential across all fields. If you&amp;rsquo;re new and unsure where to start, this piece shares a learner’s journey and advice to guide you fast.</description>
+    </item>
+    <item>
+      <title>Free Your Mind: A Beginner’s Art Journaling Guide</title>
+      <link>https://nohawrites.com/portfolio/art-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/art-journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How Can Journaling Improve Your College Life</title>
+      <link>https://nohawrites.com/portfolio/college-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/college-journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How Cyber Threat Intelligence Protects Your Business</title>
+      <link>https://nohawrites.com/portfolio/cti-protects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nohawrites.com/portfolio/cti-protects/</guid>
+      <description></description>
     </item>
     <item>
       <title>The Human Factor: From Security Risk to Security Power</title>
@@ -48,7 +90,7 @@
       <link>https://nohawrites.com/work-with-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nohawrites.com/work-with-me/</guid>
-      <description>&lt;h2 id=&#34;make-your-cybersecurity-content-clear-and-special&#34;&gt;✨Make Your Cybersecurity Content Clear and Special✨&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;make-your-cybersecurity-content-special&#34;&gt;✨Make Your Cybersecurity Content Special✨&lt;/h2&gt;
 &lt;p&gt;I’m a cybersecurity enthusiast and writer who understands exactly what confuses beginners, because I’m actively living in the field.&lt;/p&gt;
 &lt;p&gt;After two years of blogging, I transitioned into cybersecurity and tech freelance writing, bringing clarity, structure, and strong storytelling into technical content.&lt;/p&gt;
 &lt;p&gt;Whether you’re building a tech blog, a personal brand, or a cybersecurity service, I help you connect with your audience and turn complex ideas into clear, engaging, and beginner-friendly content.&lt;/p&gt;</description>

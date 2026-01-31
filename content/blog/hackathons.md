@@ -46,7 +46,9 @@ While hackathon formats differ from one place to another, the process is usually
 
 ## Hackathons and what they offer for developers:
 
-![HACKCC hackathon](/images/photos/HACKCC.jpg) 
+<div style="margin: 40px 0;">
+  <img src="/images/photos/HACKCC.JPG" style="display: block; margin: 0 auto;" />
+</div>
 
 It’s indeed a competition, time-based and prize-related, but even if you don’t make it to the top, the experience itself offers huge benefits:
 

@@ -1,5 +1,5 @@
 ---
-title: "Windows vs. Linux — A Simple Guide That Finally Makes Sense"
+title: "Windows vs. Linux, A Simple Guide That Finally Makes Sense"
 slug: "simple-guide-to-windows-vs-linux"
 date: 2026-01-30
 draft: false
@@ -44,7 +44,7 @@ So:
 - Or explore what distribution is best for your field
 
 <div style="margin: 40px 0;">
-  <img src="/images/illustrations/undraw_windows.svg" width="320" style="display: block; margin: 0 auto;" />
+  <img src="/images/illustrations/coding.png" width="320" style="display: block; margin: 0 auto;" />
 </div>
 
 ## What about Windows?
