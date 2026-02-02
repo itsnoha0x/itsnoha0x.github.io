@@ -1,20 +1,15 @@
 ---
 title: "Home"
 ---
-{{< rawhtml >}}
 <div class="home-banner">
-
 <img src="/images/banner.jpg" alt="Banner">
-
 </div>
-{{< /rawhtml >}}
+
 
 ## Welcome 👋
 
 
-
 It’s me Noha, immersed in the world of cybersecurity, using writing as a way to document and make sense of what I learn.
-
 
 
 This is my digital space, bringing together my curiosity for cybersecurity and my love for writing. Here, you’ll find:
