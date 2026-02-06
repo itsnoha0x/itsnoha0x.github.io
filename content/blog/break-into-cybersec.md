@@ -91,13 +91,13 @@ Think of certifications as a plus, a proof of investing time into learning and i
 Not at all. While basic scripting skills in Python, Bash, or PowerShell can be useful, they are not essential to get started. 
 Cybersecurity is a broad field with many roles that focus more on **network security, system administration, threat analysis, and risk management** rather than coding. It is far more important to understand networks, systems, and web security. 
 
-Coding skills can be an advantage, but they are not a strict requirement for building your career.
+[Coding skills](https://nohawrites.com/blog/how-to-learn-programming-faster/) can be an advantage, but they are not a strict requirement for building your career.
 
 **"Recruiters will chase after you."**
 
 Not quite the case. Cybersecurity is in high demand, but that doesn’t mean you will automatically get hired because of your degree or a few certifications. While opportunities are growing, so is the competition, and those who do the bare minimum won’t stand out. 
 
-Continuous learning, curiosity, and real projects are key to attracting recruiters. Building a strong professional presence and all the mentioned skills will set you apart. But it’s wrong to expect recruiters to chase after you if you’re not exceptional!
+Continuous learning, curiosity, and real projects are key to attracting [recruiters](https://nohawrites.com/blog/recruiters-advice-to-get-you-hired-in-cybersecurity/). Building a strong professional presence and all the mentioned skills will set you apart. But it’s wrong to expect recruiters to chase after you if you’re not exceptional!
 
 ## In short:
 
