@@ -1,7 +1,7 @@
 ---
 title: "My First Internship In Offensive Security, Recap"
 slug: "my-first-internship-in-offensive-security"
-date: 2026-02-6
+date: 2026-02-06
 draft: false
 summary: "I completed my first internship in offensive security, working on an Active Directory lab and project. I gracefully took my time to understand AD principles, secure them, and document the journey."
 ---
