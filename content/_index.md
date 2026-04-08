@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Noha Writes"
 ---
 <div class="home-banner">
 <img src="/images/banner.jpg" alt="Banner">
