@@ -53,10 +53,6 @@ She explains that both types are challenging, but for different reasons.
 - **External penetration testing**: It requires a high level of concentration and analysis. The attack surface is exposed to the internet and often limited, so the process is deeper and more precise to identify exploitable vulnerabilities.
 - **Internal penetration testing**: The challenge lies in the size of the scope. Larger environment, a lot to cover, and a deadline closing in. The game becomes about balancing full coverage of the infrastructure while still going deep where needed.
 
-<div style="margin: 40px 0;">
-  <img src="/images/illustrations/undraw-mobile.svg" width="320" style="display: block; margin: 0 auto;" />
-</div>
-
 # PCI DSS audits
 
 > On the other hand, PCI DSS audit is more about compliance and control validation. The objective is to assess whether the organization has implemented the required security controls and processes in line with the standard.
