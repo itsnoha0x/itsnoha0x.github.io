@@ -3,44 +3,43 @@ title: "Work With Me"
 ShowShareButtons: false
 ---
 
-## ✨Make Your Cybersecurity Content Special✨
+## ✨Turn Complex Cybersecurity Topics Into High-Authority Content That Builds Trust and Generates Leads✨
 
-I’m a cybersecurity enthusiast and writer who understands exactly what confuses beginners, because I’m actively living in the field.
+I’m a cybersecurity engineer and **B2B content consultant** who knows exactly how to bridge the gap between deep technical engineering and clear corporate communication.
 
-After two years of blogging, I transitioned into cybersecurity and tech freelance writing, bringing clarity, structure, and strong storytelling into technical content.
+As a specialized **B2B cybersecurity content writer**, I build your industry authority, educate technical decision-makers, and accelerate your sales pipeline.
 
-Whether you’re building a tech blog, a personal brand, or a cybersecurity service, I help you connect with your audience and turn complex ideas into clear, engaging, and beginner-friendly content.
+And because I actively participate in security labs and break down complex technical environments, **I do not require hand-held technical onboarding.** You can hand me a product brief, API documentation, or a technical concept, and I start writing immediate, fluff-free content.
 
 ## Who I Work Best With
 
-- **High-value, solution-driven tech companies**
-- **Startups building a strong brand and identity**
-- **Tech education companies targeting students and beginners**
-- **Blogs looking for fresh, beginner-friendly tech content**
-- **Bootcamps and certification providers building trust**
+* **B2B Cybersecurity SaaS & Software Vendors:** Companies looking to communicate value to CISOs, CIOs, and Security Engineers.
+* **Managed Service Providers (MSPs & MSSPs):** Firms needing high-value content to educate mid-market clients on risk management.
+* **Compliance & Risk Management Brands:** Companies breaking down complex frameworks and national regulations (ISO 27001, NIST CSF, GDPR, and Saudi NCA ECC).
+* **Application Security (AppSec) Teams:** Technical product companies requiring deep architectural understanding.
 
 ## Selected Writing Samples
 
-{{< portfolio-grid category="cyber" >}}
+*Below are examples of deep-dive, high-authority content written to establish enterprise trust and address complex security frameworks.*
+
+### ✨ Deep-Tech SaaS & Cloud Security
+{{< portfolio-grid category="cyber" tags="saas" >}}
+
+### ✨ Enterprise Strategy & Regulated Verticals
+{{< portfolio-grid category="cyber" tags="enterprise" >}}
+
+### ✨ Threat Intelligence & Regional Analysis
+{{< portfolio-grid category="cyber" tags="threat-intel" >}}
 
 ## Why Work With Me?
 
-- I live what I write, a real hands-on learning experience
-- I simplify complex ideas and translate expert insights into engaging content
-- I bring a creative, human tone to tech writing
-- I value clear communication, deadlines, and structured workflows
-- I focus on accuracy, clarity, and reader trust
+* **Hands-on Domain Authority:** I don't just research topics on Google; I work inside offensive security labs, giving my writing a level of real-world authenticity AI cannot replicate.
+* **Business-to-Technical Translation:** I effortlessly translate highly complex engineering architectures into clear, compelling risk-and-value propositions that non-technical corporate buyers understand.
+* **SEO & Digital Strategy Focused:** Every piece of content is structured for readability, reader retention, and organic search visibility to maximize your ROI.
+* **Professional & Reliable Workflow:** I treat your deadlines, content briefs, and compliance standards with the most professional respect.
 
-## Bonus: My Writing Beyond Cybersecurity
+## Let’s Build Authority Together
 
-My love for writing isn’t limited to tech, but expands and overlaps with creativity. Here are some of my guest posts on creative topics:
-
-{{< portfolio-grid category="guest" >}}
-
----
-
-## Contact me
-
-> If you’d like to work together or discuss a project, feel free to reach out.
+> Need data-driven, authoritative content for your cybersecurity brand? Let’s talk about how we can scale your inbound pipeline.
 >  
 > 📧 **hello@nohawrites.com**
