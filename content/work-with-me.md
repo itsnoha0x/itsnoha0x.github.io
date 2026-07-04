@@ -23,13 +23,13 @@ And because I actively participate in security labs and break down complex techn
 *Below are examples of deep-dive, high-authority content written to establish enterprise trust and address complex security frameworks.*
 
 ### ✨ Deep-Tech SaaS & Cloud Security
-{{< portfolio-grid category="cyber" tags="saas" >}}
+{{< portfolio-grid category="cyber" tag="saas" >}}
 
 ### ✨ Enterprise Strategy & Regulated Verticals
-{{< portfolio-grid category="cyber" tags="enterprise" >}}
+{{< portfolio-grid category="cyber" tag="enterprise" >}}
 
 ### ✨ Threat Intelligence & Regional Analysis
-{{< portfolio-grid category="cyber" tags="threat-intel" >}}
+{{< portfolio-grid category="cyber" tag="threat-intel" >}}
 
 ## Why Work With Me?
 
