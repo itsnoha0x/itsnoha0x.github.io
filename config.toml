@@ -23,6 +23,10 @@ relativeURLs = true
   customCSS = ["css/custom.css"]
   env = "production"
 
+  [params.author]
+    name = "Noha Writes"
+    email = "hello@nohawrites.com"
+
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/itsnoha0x"
