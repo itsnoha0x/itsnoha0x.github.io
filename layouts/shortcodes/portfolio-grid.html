@@ -1,8 +1,11 @@
 {{ $cat := .Get "category" }}
+{{ $tag := .Get "tag" }}
 
 <div class="portfolio-grid">
   {{ range where site.RegularPages "Section" "portfolio" }}
-    {{ if eq .Params.category $cat }}
+    {{ $matchesCategory := eq .Params.category $cat }}
+    {{ $matchesTag := or (not $tag) (eq .Params.tag $tag) }}
+    {{ if and $matchesCategory $matchesTag }}
       <div class="portfolio-card">
         <h3>{{ .Title }}</h3>
 
