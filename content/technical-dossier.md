@@ -40,3 +40,16 @@ A static analysis tool for Android apps that flags cryptographic weaknesses in t
 
 I've built and hardened infrastructure end to end: a PKI setup with RADIUS authentication and NAC policies to control network access, virtualized lab environments in VMware vSphere and Proxmox, and a hardened Asterisk VoIP deployment. I've also done a deep technical comparison of Linux iptables vs. BSD Packet Filter, how each handles rule evaluation and packet inspection under the hood.
 
+---
+ 
+## Full-Stack Projects (Built with Security in Mind)
+ 
+Two of my school projects: a CRM platform in Java and a library management system in PHP, both database-backed, and both built with security considerations baked in from the start (input validation, access control, data handling).
+ 
+---
+ 
+## Tools & Skills
+ 
+**Networking:** Cisco fundamentals — routing/switching, subnetting, TCP/IP
+**Security tools:** Kali Linux, Metasploit, Nmap, Wireshark, Burp Suite, Active Directory, Fortigate firewalls
+**Beyond the technical:** I lead on the projects I'm part of, and I make a point of taking every chance I get to speak publicly about my work.
