@@ -7,71 +7,36 @@ ShowShareButtons: false
 
 ---
 
-## 💼 Professional Milestones & Operations
+## Offensive Security Experience
 
-### 🔴 Penetration Testing & Security Engineering Intern | DATAPROTECT
-* **Timeline:** 2026 – Present
-* **Scope & Focus:** Embedded within the enterprise cybersecurity division, focusing on offensive security assessments and penetration testing methodologies. 
-* **Mandate:** Actively collaborating with the security team to identify vulnerabilities, validate internal controls, and support the hardening of corporate infrastructure.
+**Penetration Testing & Security Engineering Intern — DATAPROTECT** (2026–Present)
+Final-year Cybersecurity Engineering student at National School of Applied Sciences, currently interning inside the cybersecurity division on offensive security assessments, helping the team find vulnerabilities, test internal controls, and harden client infrastructure.
 
-### 🛡️ Offensive Security Intern | Association CyberV
-* **Timeline:** July 2025
-* **Scope & Deliverables:** Executed internal penetration testing methodologies against a live Active Directory environment. Mapped out privilege escalation vectors, simulated realistic lateral movement, and authored a remediation-focused risk mitigation report.
-* **Read the Case Study:** 🔗 [My First Internship In Offensive Security](https://nohawrites.com/blog/my-first-internship-in-offensive-security/)
+**Offensive Security Intern — Association CyberV** (July 2025)
+I ran a full penetration test against a live Active Directory environment, mapped privilege escalation paths, simulated lateral movement, and wrote up a remediation report for the team.
+→ [Read the case study: My First Internship In Offensive Security](https://nohawrites.com/blog/my-first-internship-in-offensive-security/)
 
-### 🚩 Continuous Skills Validation (CTF & Labs)
-* **Active Pursuits:** Regular practitioner in defensive and offensive environments. Actively pursuing the **TryHackMe Junior Penetration Tester Path**.
-* **CTF Focus:** Frequent competitor in Capture The Flag (CTF) events, specializing heavily in the **Digital Forensics** category.
+**Ongoing practice**
+I keep my skills sharp through CTFs (mostly digital forensics) and I'm currently working through the TryHackMe Junior Penetration Tester path.
 
 ---
 
-## 🤖 AI-Driven Security & Automation Engineering
+## AI & Security Automation Projects
 
-### 🥇 AI-Powered OSINT Platform for Investigative Journalism
-* **Recognition:** Awarded **1st Place at Hackathon** 🏆
-* **Architecture:** Designed and engineered an automated, privacy-centric open-source intelligence collection platform. Built to minimize investigative exposure to surveillance risks, integrating targeted threat-intel lookup endpoints alongside the **Gemini API** for intelligent parsing and automated data extraction.
+**AI-powered OSINT platform for investigative journalists** 🏆 1st place, Gemini Hack Night
+Built a privacy-first OSINT tool for journalists doing sensitive investigations. It automates source collection and threat-intel lookups, and uses the Gemini API to parse and extract data automatically, so reporters get what they need with less digital exposure.
 
-### 🚀 Continuous Threat Intelligence (CTI) in CI/CD Pipelines
-* **Architecture:** Built an automated DevSecOps pipeline utilizing **GitHub Actions** that ingests active threat intelligence data streams. Programmed a custom risk-scoring engine to filter and prioritize incoming CVEs, utilizing a localized LLM via the **Featherless API** to output plain-language alert explanations and patching playbooks.
+**SecurFlow: Threat intelligence pipeline for CI/CD**
+Built a GitHub Actions pipeline that pulls in live threat intel, scores incoming CVEs by risk, and uses a local LLM to turn each one into a plain-language explanation and patch plan, so a dev doesn't need a security background to act on it.
 
-### 🔍 CryptoLint-AI: Machine-Learning Assisted Android Cryptographic Auditor
-* **Architecture:** Engineered a dual-layer static application security testing (SAST) tool optimized for Android application binaries and raw source code.
-* **AI Integration:** Implemented an automated pipeline linking static detection outputs to a high-capacity LLM reasoning engine, generating comprehensive risk scenarios, compliance impact modeling, and on-demand contextual code remediation patches.
+**CryptoLint-AI: Android cryptographic auditor**
+A static analysis tool for Android apps that flags cryptographic weaknesses in the code, then feeds the results to an LLM to generate risk scenarios and suggested fixes.
 
-
-### 🧪 Deep-Tech AI Steganography & Steganalysis Toolkit
-* **Architecture:** Developed an advanced media forensics R&D toolkit designed to detect hidden data payloads concealed within files. Trained and implemented custom machine learning patterns to analyze structural anomalies.
-
-### 📊 Automated SOC Integration via MITRE ATT&CK
-* **Architecture:** Engineered automation workflows mapped directly to the **MITRE ATT&CK framework**. Designed correlation structures to match system logs with adversarial tactics, techniques, and procedures (TTPs), enabling security operations centers to accelerate alert triage.
+**A few other things I've built:** a steganography/steganalysis toolkit for detecting hidden data in files, and an automation layer that maps security logs to MITRE ATT&CK techniques to speed up alert triage for SOC teams.
 
 ---
 
-## 🌐 Secure Infrastructure & Systems Architecture
+## Infrastructure & Systems
 
-### 🏢 System Hardening, PKI & Centralized Authentication
-* **Execution:** Designed and deployed a resilient, enterprise-grade defensive infrastructure. Implemented a robust **Public Key Infrastructure (PKI)** for secure certificate management, coupled with **RADIUS authentication** and Network Access Control (**NAC**) policies to strictly police network entry points.
+I've built and hardened infrastructure end to end: a PKI setup with RADIUS authentication and NAC policies to control network access, virtualized lab environments in VMware vSphere and Proxmox, and a hardened Asterisk VoIP deployment. I've also done a deep technical comparison of Linux iptables vs. BSD Packet Filter, how each handles rule evaluation and packet inspection under the hood.
 
-### 🖥️ Enterprise Virtualization & Hypervisors
-* **Execution:** Hands-on architecture, resource allocation, and segmentation within enterprise virtualized environments. Proficient in managing and configuring hypervisors via **VMware vSphere** and **Proxmox VE** for resilient lab deployments and staging infrastructures.
-
-### 📞 Asterisk PBX Deployment & VoIP Security
-* **Execution:** Built and provisioned a voice communications infrastructure using **Asterisk**. Applied rigorous hardening parameters, payload filtering, and transport encryption protocols to mitigate eavesdropping, registration hijacking, and VoIP-specific attack vectors.
-
-### 🛡️ Low-Level Packet Filtering: Iptables vs. PF
-* **Research & Lab:** Conducted a comprehensive structural comparative analysis mapping the performance, rule evaluation processing, and packet inspection mechanics between Linux `iptables` and BSD `Packet Filter (PF)`.
-
----
-
-## 💻 Full-Stack Software Engineering (Legacy Projects)
-
-* **Enterprise Java CRM Platform:** Developed a feature-dense Customer Relationship Management platform built on Java, integrating intelligent features to optimize data workflows.
-* **PHP Library Management System:** Designed an object-oriented data management application utilizing PHP and secure database architectures to handle inventory, user states, and transactions.
-
----
-
-## 🛠️ Technical Ecosystem & Core Competencies
-
-* **Core Networking:** Cisco Networking Basics (Routing/Switching, Subnetting, TCP/IP Suite architecture).
-* **Security & Testing Tools:** Kali Linux, Metasploit, Nmap, Wireshark, Burp Suite, Active Directory, Firewalls (Fortigate).
-* **Leadership & Strategy:** Proven track record in **Public Speaking** and **Team Management** (demonstrated via Hackathon leadership, technical briefings, and collaborative engineering projects).
