@@ -50,6 +50,10 @@ name = "Read My Blog"
 url = "/blog/"
 
 [[params.profileMode.buttons]]
+name = "Technical Dossier"
+url = "/technical-dossier/"
+
+[[params.profileMode.buttons]]
 name = "Work With Me"
 url = "/work-with-me/"
 
@@ -66,9 +70,14 @@ url = "/work-with-me/"
     weight = 1
 
   [[menu.main]]
+    name = "Technical Dossier"
+    url = "/technical-dossier/"
+    weight = 2
+
+  [[menu.main]]
     name = "Work With Me"
     url = "/work-with-me/"
-    weight = 2
+    weight = 3
 
 
 

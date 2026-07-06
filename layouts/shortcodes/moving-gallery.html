@@ -1,0 +1,66 @@
+<div class="marquee-container">
+    <div class="marquee-track">
+        <img src="/images/collective-photo.jpg" alt="Engineering Team Operations">
+        <img src="/images/cryptolint.png" alt="CryptoLint-AI Vulnerability Scanner UI">
+        <img src="/images/osint-journal.jpg" alt="OSINT Platform Intelligence Journal Documentation">
+        <img src="/images/cicd.png" alt="Continuous Threat Intel DevSecOps Pipeline">
+        <img src="/images/ctf-laptop.jpg" alt="Live Digital Forensics Capture the Flag Session">
+        <img src="/images/hackathon-app.jpeg" alt="Award-Winning OSINT Application Interface">
+        <img src="/images/won-prize.jpg" alt="1st Place Hackathon Recognition Ceremony">
+
+        <img src="/images/collective-photo.jpg" alt="Engineering Team Operations">
+        <img src="/images/cryptolint.png" alt="CryptoLint-AI Vulnerability Scanner UI">
+        <img src="/images/osint-journal.jpg" alt="OSINT Platform Intelligence Journal Documentation">
+        <img src="/images/cicd.png" alt="Continuous Threat Intel DevSecOps Pipeline">
+        <img src="/images/ctf-laptop.jpg" alt="Live Digital Forensics Capture the Flag Session">
+        <img src="/images/hackathon-app.jpeg" alt="Award-Winning OSINT Application Interface">
+        <img src="/images/won-prize.jpg" alt="1st Place Hackathon Recognition Ceremony">
+    </div>
+</div>
+
+<style>
+.marquee-container {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    background: #0b0b0e;
+    padding: 20px 0;
+    position: relative;
+}
+/* Creates a soft fade on the left and right edges so images glide in from shadows */
+.marquee-container::before, .marquee-container::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 80px;
+    height: 100%;
+    z-index: 2;
+    pointer-events: none;
+}
+.marquee-container::before { left: 0; background: linear-gradient(to right, #0b0b0e, transparent); }
+.marquee-container::after { right: 0; background: linear-gradient(to left, #0b0b0e, transparent); }
+
+.marquee-track {
+    display: flex;
+    width: max-content;
+    animation: infiniteScroll 35s linear infinite; /* Slightly adjusted timing for 7 images */
+}
+.marquee-track img {
+    width: 320px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 25px;
+    border: 1px solid rgba(255, 215, 0, 0.12); /* Subtle gold border border */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    transition: transform 0.3s ease;
+}
+.marquee-track img:hover {
+    transform: scale(1.03); /* Tiny interactive pop out when hovered */
+    border-color: rgba(255, 215, 0, 0.4);
+}
+@keyframes infiniteScroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+</style>

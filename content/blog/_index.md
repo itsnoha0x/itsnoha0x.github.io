@@ -3,4 +3,4 @@
 title: "Blog"
 ---
 
-A collection of my writing on cybersecurity, learning, and interviews.
+Documenting my security journey through stories, study notes, and unfiltered tech interviews.
