@@ -31,6 +31,12 @@ And because I actively participate in security labs and break down complex techn
 ### ✨ Threat Intelligence & Regional Analysis
 {{< portfolio-grid category="cyber" tag="threat-intel" >}}
 
+> "I had the pleasure of working with Noha on several cybersecurity articles. She is highly professional, very responsive, and always open to feedback and new ideas.
+>
+> Noha has strong copywriting skills and a real ability to handle complex cybersecurity topics with clarity and accuracy. Our collaboration was smooth and efficient, and the quality of her work consistently met a high standard. I would gladly recommend her to anyone looking for a reliable and skilled copywriter."
+>
+> — **Marouane Sabri, Co-founder & CMO at Defendis**
+
 ## Why Work With Me?
 
 * **Hands-on Domain Authority:** I don't just research topics on Google; I work inside offensive security labs, giving my writing a level of real-world authenticity AI cannot replicate.
@@ -43,3 +49,4 @@ And because I actively participate in security labs and break down complex techn
 > Need data-driven, authoritative content for your cybersecurity brand? Let’s talk about how we can scale your inbound pipeline.
 >  
 > 📧 **hello@nohawrites.com**
+> 📧 [Message Me on LinkedIn](https://www.linkedin.com/in/noha-moussaddak/)
