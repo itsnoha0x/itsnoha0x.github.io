@@ -5,5 +5,4 @@ category: "cyber"
 tag: "saas"
 description: "MITTRE ATT&CK is widely known but rarely operationalized, closing the gap turns it into a real driver of detection, response, and smarter security decisions."
 draft: false
-featured: true
 ---

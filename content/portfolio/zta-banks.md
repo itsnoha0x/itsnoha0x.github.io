@@ -5,4 +5,5 @@ category: "cyber"
 tag: "enterprise"
 description: "Zero Trust is a security mindset: trust nothing, verify everything, and enforce least privilege to protect critical systems and data."
 draft: false
+featured: true
 ---

@@ -9,7 +9,7 @@ title: "Noha Writes"
 ## Welcome 👋
 
 
-I'm Noha, an aspiring cybersecurity engineer and B2B content consultant. I write about security because I practice it, and I help cybersecurity companies turn technical work into content people actually trust.
+I'm Noha, a cybersecurity practitioner and B2B content consultant. I write about security because I practice it, and I help cybersecurity companies turn technical work into content people actually trust.
 
 I'm currently a final-year engineering student and penetration testing intern at DATAPROTECT, and this site is where that technical world meets my writing.
 
