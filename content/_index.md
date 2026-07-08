@@ -9,15 +9,14 @@ title: "Noha Writes"
 ## Welcome 👋
 
 
-It’s me Noha, immersed in the world of cybersecurity, using writing as a way to document and make sense of what I learn.
+I'm Noha, an aspiring cybersecurity engineer and B2B content consultant. I write about security because I practice it, and I help cybersecurity companies turn technical work into content people actually trust.
 
+I'm currently a final-year engineering student and penetration testing intern at DATAPROTECT, and this site is where that technical world meets my writing.
 
-This is my digital space, bringing together my curiosity for cybersecurity and my love for writing. Here, you’ll find:
+Here, you'll find:
 
-
-- cybersecurity topics explained clearly
-- documentation of my learning experiments
-- writing services for tech companies and individuals
-- interviews and conversations with cybersecurity professionals
-- reflections at the intersection of technology and creativity
-
+- Cybersecurity topics explained clearly
+- Writing services for cybersecurity companies and individuals
+- Documentation of my own learning and projects
+- Conversations with cybersecurity professionals
+- Reflections at the intersection of security and writing

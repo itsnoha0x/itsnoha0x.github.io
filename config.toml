@@ -38,7 +38,7 @@ relativeURLs = true
 [params.profileMode]
   enabled = true
   title = "Noha Writes"
-  subtitle = "Cybersecurity Enthusiast and Freelance Writer"
+  subtitle = "Cybersecurity Practitioner & B2B Content Consultant"
   imageUrl = "/images/profile.jpg"
   imageTitle = "Noha"
   imageWidth = 150
