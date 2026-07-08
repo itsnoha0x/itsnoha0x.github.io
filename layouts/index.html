@@ -1,4 +1,15 @@
 {{ define "main" }}
+  <style>
+    #stars-bg {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      pointer-events: none;
+    }
+  </style>
   <canvas id="stars-bg"></canvas>
 
   {{ if site.Params.profileMode.enabled }}
@@ -11,12 +22,13 @@
 
   {{/* CLIENT WORK GRID */}}
   {{ $portfolioPages := where site.RegularPages "Section" "portfolio" }}
-  {{ if gt (len $portfolioPages) 0 }}
+  {{ $featuredPages := where $portfolioPages "Params.featured" true }}
+  {{ if gt (len $featuredPages) 0 }}
   <section class="client-work">
     <h2>Work for Clients</h2>
 
     <div class="posts-list">
-      {{ range first 3 $portfolioPages }}
+      {{ range first 3 $featuredPages }}
         <article class="post-row">
           <a href="{{ .Params.link }}" target="_blank" rel="noopener">
             <h3>{{ .Title }}</h3>

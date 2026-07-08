@@ -5,4 +5,5 @@ category: "cyber"
 tag: "threat-intel"
 description: "Attackers are already stealing encrypted data today, banking on quantum computers to unlock it years from now."
 draft: false
+featured: true
 ---
