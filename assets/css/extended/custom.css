@@ -63,3 +63,25 @@
 }
 
 
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+}
+
+.post-content table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.post-content table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  border: 1px solid rgba(255,255,255,0.1);
+}
