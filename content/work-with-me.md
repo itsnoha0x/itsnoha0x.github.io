@@ -3,13 +3,13 @@ title: "Work With Me"
 ShowShareButtons: false
 ---
 
-## ✨Turn Complex Cybersecurity Topics Into High-Authority Content That Builds Trust and Generates Leads✨
+## ✨Cybersecurity Content That Technical Buyers Actually Trust✨
 
 I’m a cybersecurity engineer and **B2B content consultant** who knows exactly how to bridge the gap between deep technical engineering and clear corporate communication.
 
 As a specialized **B2B cybersecurity content writer**, I build your industry authority, educate technical decision-makers, and accelerate your sales pipeline.
 
-And because I actively participate in security labs and break down complex technical environments, **I do not require hand-held technical onboarding.** You can hand me a product brief, API documentation, or a technical concept, and I start writing immediate, fluff-free content.
+And because I actively participate in security labs and break down complex technical environments, **I do not require hand-held technical onboarding.** Hand me a product brief, API documentation, or a technical concept, and I start writing right away.
 
 ## Who I Work Best With
 
@@ -46,7 +46,7 @@ And because I actively participate in security labs and break down complex techn
 
 ## Let’s Build Authority Together
 
-> Need data-driven, authoritative content for your cybersecurity brand? Let’s talk about how we can scale your inbound pipeline.
+> Need content for your cybersecurity brand that holds up to a technical audience? Let's talk about what you need.
 >  
 > 📧 **hello@nohawrites.com**
 > 📧 [Message Me on LinkedIn](https://www.linkedin.com/in/noha-moussaddak/)
