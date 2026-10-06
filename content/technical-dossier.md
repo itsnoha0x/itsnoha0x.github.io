@@ -9,8 +9,8 @@ ShowShareButtons: false
 
 ## Offensive Security Experience
 
-**Penetration Testing & Security Engineering Intern — DATAPROTECT** (2026–Present)
-Final-year Cybersecurity Engineering student at National School of Applied Sciences, currently interning inside the cybersecurity division on offensive security assessments, helping the team find vulnerabilities, test internal controls, and harden client infrastructure.
+**Penetration Testing & Security Engineering Intern — DATAPROTECT** (July–August 2026)
+Final-year Cybersecurity Engineering student at the National School of Applied Sciences. Spent two months working on an AI red-teaming project focused on prompt injection and data exfiltration. → [Read the insights: The AI Security Attack Surface Is Bigger Than You Think](https://nohawrites.com/blog/ai-security-attack-surface/)
 
 **Offensive Security Intern — Association CyberV** (July 2025)
 I ran a full penetration test against a live Active Directory environment, mapped privilege escalation paths, simulated lateral movement, and wrote up a remediation report for the team.
