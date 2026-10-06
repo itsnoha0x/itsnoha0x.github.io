@@ -16,9 +16,6 @@ Final-year Cybersecurity Engineering student at the National School of Applied S
 I ran a full penetration test against a live Active Directory environment, mapped privilege escalation paths, simulated lateral movement, and wrote up a remediation report for the team.
 → [Read the case study: My First Internship In Offensive Security](https://nohawrites.com/blog/my-first-internship-in-offensive-security/)
 
-**Ongoing practice**
-I keep my skills sharp through CTFs (mostly digital forensics) and I'm currently working through the TryHackMe Junior Penetration Tester path.
-
 ---
 
 ## AI & Security Automation Projects
