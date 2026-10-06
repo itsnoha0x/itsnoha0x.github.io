@@ -149,7 +149,7 @@ To fix it, security controls need to exist outside the model's reasoning too.
 And **output validation** provides another layer that can detect and block sensitive information before it reaches the user.
 
 <div style="margin: 40px 0;">
-  <img src="/images/instruction-conflict.png" style="display: block; margin: 0 auto;" />
+  <img src="/images/salaries-nope.png" style="display: block; margin: 0 auto;" />
 </div>
 
 ### Indirect prompt injection
